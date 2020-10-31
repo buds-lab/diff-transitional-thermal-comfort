@@ -9,9 +9,4 @@ The code and analysis used for the manuscript can be found in the jupyter notebo
 
 ---
 
-<object data="https://github.com/buds-lab/diff-transitional-thermal-comfort/blob/main/docs/indoorair2020_transient_time_poster.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/buds-lab/diff-transitional-thermal-comfort/blob/main/docs/indoorair2020_transient_time_poster.pdf">
-            <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/buds-lab/diff-transitional-thermal-comfort/blob/main/docs/indoorair2020_transient_time_poster.pdf">Download PDF</a>.</p>
-                </embed>
-                </object>
-
+![poster](docs/poster_image.jpg)
